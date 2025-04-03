@@ -1,4 +1,4 @@
-This is the recipe on how to clean a dataset in openRefine.
+This is the AAAA on how to clean a dataset in openRefine.
 
 Input files:
 - samples_openrefine_lesson.csv -- the messy dataset from the OpenRefine lesson 
